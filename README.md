@@ -1,4 +1,5 @@
 # developer Studio 1017
+https://2026-10-17-developer-studio-1017.vercel.app/
 
 developer Studio 1017 is a local-first engineering command center designed to turn a scattered day of pull requests, incidents, deploys, and meetings into a calm, actionable flow. It is a portfolio-ready interactive dashboard—not a generic task list.
 
